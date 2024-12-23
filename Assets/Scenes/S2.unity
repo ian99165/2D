@@ -1664,13 +1664,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _button_Start: {fileID: 1551917562}
-  _button_back: {fileID: 1551917562}
   _button_Exit: {fileID: 1551917562}
+  _button_Rule: {fileID: 1551917562}
+  _button_rule_X: {fileID: 1551917562}
+  _button_back: {fileID: 1551917562}
   _button_Exit_Game: {fileID: 1551917562}
   _button_Home: {fileID: 1369121888}
   _button_Win_Exit: {fileID: 1547474262}
   start_canvas: {fileID: 1551917558}
-  playing_canvas: {fileID: 1551917558}
+  esc_canvas: {fileID: 1551917558}
+  rule_canvas: {fileID: 1551917558}
 --- !u!1 &1751424871
 GameObject:
   m_ObjectHideFlags: 0
